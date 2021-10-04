@@ -1,0 +1,298 @@
+[
+    {
+        "_id": "61412af8b714cf6fad7be5e4",
+        "dishName": "Alu Gobi",
+        "fileName": "ee37201c-a855-4039-b17b-ebfb2ab312da.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5e5",
+        "dishName": "Barfi",
+        "fileName": "44e1612d-59e3-4201-8fd0-9d727cb39d43.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Indian"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5e6",
+        "dishName": "Beef Vindaloo",
+        "fileName": "d15d6a63-35c9-4e0d-93c8-d7f22389540e.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5e7",
+        "dishName": "Butter Chicken",
+        "fileName": "a290f888-8bca-40a6-ae23-228685bb2e6a.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5e8",
+        "dishName": "Carrot Halwa",
+        "fileName": "d25bd528-d2f2-418e-829d-ebe2b19df633.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5e9",
+        "dishName": "Chaat Papri",
+        "fileName": "d655f046-5c3c-4e0d-b8fa-5ef7eaf471dc.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5ea",
+        "dishName": "Chana Masala",
+        "fileName": "d21acc67-3d9a-4e2d-b7af-31f46bec886b.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5eb",
+        "dishName": "Chicken 65",
+        "fileName": "a0a17a0a-cc02-4889-88bf-0ff899f4dd17.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5ec",
+        "dishName": "Chicken Biriyani",
+        "fileName": "991f1bc7-3657-4380-9ff8-85a22af04dc9.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5ed",
+        "dishName": "Chili Chicken",
+        "fileName": "2dfe7895-b5e3-42e5-99cb-a7e1fdbacd5d.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5ee",
+        "dishName": "Chutney",
+        "fileName": "a8971001-ed33-480d-b8c0-f2a2347bcfc2.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5ef",
+        "dishName": "Dhokla",
+        "fileName": "49de6cd9-617c-4c0f-a59a-3c89d02349c7.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f0",
+        "dishName": "Idili",
+        "fileName": "5468eafe-d0e0-4015-8a53-4700b3f6b0a1.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f1",
+        "dishName": "Jalebi",
+        "fileName": "a43881c4-8aab-462c-93e6-b244a873ae0a.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f2",
+        "dishName": "Kheer",
+        "fileName": "39db5436-edda-45b6-ba74-71ca3c26858f.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f3",
+        "dishName": "Kulfi",
+        "fileName": "934158b7-5628-4402-8d99-20526aa50784.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f4",
+        "dishName": "Ladoo",
+        "fileName": "48b87a35-a055-45b7-a034-5e4ba6d69c61.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f5",
+        "dishName": "Lamb Kebabs",
+        "fileName": "387bd3b3-6bbe-49c1-b65e-4cb31b4411fe.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f6",
+        "dishName": "Lamb Vindaloo",
+        "fileName": "ff97faee-c5ad-41c6-aacf-bae975446cd2.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f7",
+        "dishName": "Lime Pickle",
+        "fileName": "bcfb6ed9-6a7d-41f5-a2b7-16beb56976da.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f8",
+        "dishName": "Maili Kofta",
+        "fileName": "b526ce2d-d49b-409a-8e5c-9a3945439903.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5f9",
+        "dishName": "Masala Dosa",
+        "fileName": "2f2b10a9-9594-486a-904b-2ffdf4c8e387.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5fa",
+        "dishName": "Masoor Dal",
+        "fileName": "f36b9fa3-1ea2-42e0-b62b-40a58fa97fb8.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5fb",
+        "dishName": "Medu Vada",
+        "fileName": "0543910a-c44f-45a0-8dd5-85863e474e5c.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5fc",
+        "dishName": "Naan",
+        "fileName": "9a3dbfee-081e-42b7-8c88-d3287a291bfa.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5fd",
+        "dishName": "Navratan Korma",
+        "fileName": "88639348-b10d-4742-a381-376d381bc967.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5fe",
+        "dishName": "Onion Pakora",
+        "fileName": "420bb924-25fa-46dd-affc-766889355edc.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be5ff",
+        "dishName": "Papadum",
+        "fileName": "442d46fc-b051-471f-b94e-77044bfcbc3c.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be600",
+        "dishName": "Pulao",
+        "fileName": "8ee8cc4b-9c3e-4c12-bac4-78a195d1c22e.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be601",
+        "dishName": "Rajma",
+        "fileName": "a66c4ee7-861d-4d59-a6f6-ebcb8a1bfd26.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be602",
+        "dishName": "Rogan Josh",
+        "fileName": "03bbfcb1-59f5-4e9e-bbed-435da2b2649c.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be603",
+        "dishName": "Saag Paneer",
+        "fileName": "0fc68e81-760b-4e07-bb5a-7be1f989d98f.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be604",
+        "dishName": "Sambar",
+        "fileName": "e2e0687c-f3a2-4a72-94c6-ee5449f0a522.jpg",
+        "price": 350,
+        "category": "Dessert",
+        "cuisine": "Chinese"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be605",
+        "dishName": "Samosa",
+        "fileName": "1c71c549-0e97-4ba5-86cf-7b9bba483e56.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be606",
+        "dishName": "Tandoori Chicken",
+        "fileName": "4ca865cc-454d-4c5f-b29b-9984a9b543e6.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be607",
+        "dishName": "Uthapam",
+        "fileName": "ec6a7cc0-81e3-44f8-9a7e-46a2416a859f.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    },
+    {
+        "_id": "61412af8b714cf6fad7be608",
+        "dishName": "Vegetable Jalfrezi",
+        "fileName": "58ff5e9c-a37a-4077-bbd9-0b2b142d6571.jpg",
+        "price": 250,
+        "category": "Main Course",
+        "cuisine": "Continental"
+    }
+]
